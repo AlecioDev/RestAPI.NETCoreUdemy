@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "884ec7dc-5926-4ef5-8728-5c901da9ce25": {
+      "ProjectGuid": "884ec7dc-5926-4ef5-8728-5c901da9ce25",
+      "DisplayName": "RestAPI.NETCore",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
